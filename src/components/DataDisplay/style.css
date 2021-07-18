@@ -1,0 +1,32 @@
+.data-container {
+  width: 70%;
+  padding-bottom: 30px;
+  margin-top: 60px;
+}
+
+.selected-city {
+  color: #e23028;
+  margin: 0 auto;
+  font-size: 26px;
+  text-align: center;
+}
+
+.last-updated {
+  color: #908279;
+  font-size: 11px;
+  text-align: center;
+}
+
+.card {
+  width: 80%;
+  max-width: 200px;
+  height: 200px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: black;
+  margin-top: 10px;
+}
+
+.data-row {
+  margin-top: 40px;
+}
