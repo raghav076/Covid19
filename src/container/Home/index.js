@@ -15,6 +15,7 @@ function Home() {
           <li><a href="https://www.amazon.in/LuvLap-Paraben-Free-Wipes-Fliptop/dp/B08395732F?keywords=baby+wipes&qid=1639667344&sr=8-11&linkCode=ll1&tag=raghavmukat07-21&linkId=5e1e97ab1532374a417f652fc6f6cb52&language=en_IN&ref_=as_li_ss_tl" target="_blank">Wipes</a></li>
           <li><a href="https://amzn.to/3pZ5WLD" target="_blank">Body Lotion and Cream</a></li>
           <li><a href="https://amzn.to/3q0dEFm" target="_blank">Body Wash</a></li>
+          <li><a href="https://amzn.to/3oZLScN" target="_blank">Saree Bag</a></li>
         </ul>
       </div>
       <Search />
